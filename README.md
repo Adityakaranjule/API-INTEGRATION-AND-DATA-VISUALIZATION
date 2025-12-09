@@ -12,6 +12,7 @@ Mentor: Nella Santosh
 4. USING JSON DATA AND PRINT IT
 5. USE PRINT DATA Eg.TEMPERATURE,FEEL TEMPERATURE,HUMIDITY,DEW etc.
 6. PLOT THEM USING MATPLOTLIB BAR PLOT)
-7. **IMAGE:** <img width="1920" height="1080" alt="Screenshot 2025-12-09 223031" src="https://github.com/user-attachments/assets/09a8c607-6799-47c9-9b93-76097f0fdff8" />
+7. **IMAGE:** <img width="1781" height="801" alt="Screenshot 2025-12-09 223031" src="https://github.com/user-attachments/assets/2f8d0a7c-ad86-46f4-bb36-f6ba05e42424" />
+
 
 
